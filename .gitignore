@@ -1,0 +1,4 @@
+DATA_GUIDE.md
+data/
+__pycache__/
+.DS_Store

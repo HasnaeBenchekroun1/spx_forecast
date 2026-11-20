@@ -1,0 +1,7 @@
+wrds
+pandas>=2.0
+numpy
+matplotlib
+pyarrow
+# optional fallback for the FRED download:
+# pandas-datareader
